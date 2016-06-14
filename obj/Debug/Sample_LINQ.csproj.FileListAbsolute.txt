@@ -1,0 +1,1 @@
+c:\users\joe.andrews\documents\visual studio 2013\Projects\Sample_LINQ\Sample_LINQ\bin\Debug\Sample_LINQ.exe.config
